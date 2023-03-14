@@ -1,0 +1,2 @@
+# Implementing Various Architecture for Eyes Disease Classification
+Various deep learning architectures are tested with the Ocular Disease Recognition dataset to predict cataracts. The models tested are MLP, CNN (VGG11), and RNN (LSTM). Full writeups are available at [this link](https://github.com/reverseon/eyes-disease-classification/blob/main/Tugas%204_DeepLearning_Kelompok%2010.pdf) (written in Bahasa Indonesia).
